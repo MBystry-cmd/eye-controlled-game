@@ -83,6 +83,7 @@ Zastosowano mechanizmy:
 python3.12 -m venv venv
 ```
 2. **Aktywacja środowiska**
+
 Windows
 ```bash
 venv\Scripts\activate
