@@ -100,3 +100,9 @@ pip install -r requirements.txt
 ```bash
 python3.12 main.py
 ```
+
+### Wideo
+
+Demo z działania gry pokazuje działanie gry z widokiem okna gry oraz podglądem na obraz kamery z nałożonymi punktami charakterystycznymi. Migotanie punktów jest spowodowane przetwarzaniem obrazu co drugą klatke co ma za zadanie zmniejszyć obciążenie procesora.
+
+[[Link do Demo]](https://drive.google.com/file/d/1eM_K0tPHoTuxMq27wjAdPOY5bcNdmXzl/view?usp=sharing)
